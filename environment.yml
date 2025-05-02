@@ -1,0 +1,39 @@
+name: FTA2C
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1
+  - ca-certificates=2023.01.10
+  - libffi=3.4.2
+  - openssl=1.1.1t
+  - pip=23.0.1
+  - setuptools=66.0.0
+  - sqlite=3.41.2
+  - tk=8.6.12
+  - wheel=0.38.4
+  - xz=5.2.10
+  - zlib=1.2.13
+  - pip:
+    - certifi==2022.12.7
+    - charset-normalizer==2.1.1
+    - cmake==3.25.0
+    - filelock==3.9.0
+    - idna==3.4
+    - jinja2==3.1.2
+    - lit==15.0.7
+    - markupsafe==2.1.2
+    - mpmath==1.2.1
+    - networkx==3.0
+    - numpy==1.24.1
+    - pillow==9.3.0
+    - requests==2.28.1
+    - sympy==1.11.1
+    - torch==1.12.1
+    - torchaudio==0.12.1
+    - torchvision==0.13.1
+    - tqdm==4.65.0
+    - triton==2.0.0
+    - typing-extensions==4.4.0
+    - urllib3==1.26.13
+#prefix: C:\Users\admin\anaconda3\envs\FSR
+prefix: /home/gzh/.conda/env/FSR
